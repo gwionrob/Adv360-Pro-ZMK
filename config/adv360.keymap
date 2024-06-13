@@ -30,6 +30,7 @@
 
   keymap {
     compatible = "zmk,keymap";
+    // test
 
     default_layer {
       bindings = <
